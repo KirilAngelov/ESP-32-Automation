@@ -1,10 +1,11 @@
 # ESP-32-Automation
 In this repository there are several projects using the ESP32 microcontroller.
 
-## List
-1.Light once every minute
-
-2.Advanced Arduino Web Server
+## Table of contents
+* [Techologies used](#technologies-used)
+* [Light once every minute](#light-once-every-minute)
+* [Advanced Arduino Web Server](#advanced-arduino-web-server)
+* [How to assemble](#how-to-assemble)
 
 
 
