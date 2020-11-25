@@ -20,9 +20,9 @@ In this repository there are several projects using the ESP32 microcontroller.
 
 
 ## Light Once Every Minute
-The idea behind this is to learn about basic electronic components and how to assemble them. --
+The idea behind this is to learn about basic electronic components and how to assemble them. 
 
-This folder contains the .ino file with the code.--
+This folder contains the .ino file with the code.
 
 Also it contains pdf instructions on how to assemble the project with a scheme.
 
