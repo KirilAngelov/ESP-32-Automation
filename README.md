@@ -5,18 +5,19 @@ In this repository there are several projects using the ESP32 microcontroller.
 * [Techologies used](#technologies-used)
 * [Light once every minute](#light-once-every-minute)
 * [Advanced Arduino Web Server](#advanced-arduino-web-server)
-* [How to assemble](#how-to-assemble)
+* [Current Status](#current-status)
 
 
 
+## Technologies used
+Microcontroller ESP 32 [link]https://www.espressif.com/en/products/socs/esp32
 
 
-## Light once every minute overview
+
+## Light Once Every Minute
 The idea behind this is to learn about basic electronic components and how to assemble them.
 This folder contains the .ino file with the code.
 Also it contains pdf instructions on how to assemble the project with a scheme.
-
-
 
 
 
@@ -26,3 +27,4 @@ Using the built-in WiFi capabilities of the ESP 32, you can control a relay and 
 Control is only available if the ESP and your computer/smartphone are connected to the same network.
 Replacing the LED with a household appliance should be relatively easy and the code is the same.
 
+## Current Status
