@@ -10,7 +10,9 @@ In this repository there are several projects using the ESP32 microcontroller.
 
 
 ## Technologies used
-Microcontroller ESP 32. If you are unfamiliar click [here](https://www.espressif.com/en/products/socs/esp32)
+
++ Microcontroller ESP 32.  If you are unfamiliar click [here](https://www.espressif.com/en/products/socs/esp32).
++ One Channel Relay. More information on [relays](https://en.wikipedia.org/wiki/Relay).
 
 
 
